@@ -20,3 +20,6 @@ Default.aspx.cs contains comments that will further explain the rules around the
 - Result: 2B1C
 
 The Bulls in this example are 1 and 8. The Cow is 2. The 9s are not present in the Secret so do not count towards anything.
+
+# Submission
+Please create a new branch. Once you have committed all of your changes, please push this branch up.
